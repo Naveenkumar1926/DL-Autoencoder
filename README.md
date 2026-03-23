@@ -83,7 +83,7 @@ summary(model, input_size=(1, 28, 28))
 
 def train(model, loader, criterion, optimizer, epochs=5):
     model.train()
-    print("Name:DHAMINI S")
+    print("Name:Naveen Kumar  S")
     print("Register Number:212224040214")
     for epoch in range(epochs):
         running_loss = 0.0
